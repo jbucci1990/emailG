@@ -1,0 +1,2 @@
+We have a $CHALLENGETYPE in the $GAME game: $INNING, $OUTSBEFORE out, $RUNNERSBEFORE. $DEFENSETEAM $DEFENSIVEPLAYER throws a pitch inside to $OFFENSETEAM $OFFENSIVEPLAYER, called $CALLONFIELD. $WHOCHALLENGED challenges the call on the field. After review, the Replay Official rules that it is a $CALLAFTER. The call is $OUTCOME. $OUTSAFTER out, $RUNNERSAFTER.
+

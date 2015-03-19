@@ -1,0 +1,1 @@
+We have a $CHALLENGETYPE in $GAME game: $INNING, $OUTSBEFORE out, $RUNNERSBEFORE. $OFFENSETEAM $OFFENSIVEPLAYER $OFFENSEDOESWHAT to $DEFENSETEAM $DEFENSIVEPLAYER ruled a $CALLONFIELD. $WHOCHALLENGED challenges the call on the field. After review, the Replay Official rules that the call $OUTCOME. The play was ruled a $CALLAFTER. $OUTSAFTER out, $RUNNERSAFTER.

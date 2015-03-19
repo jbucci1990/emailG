@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6ECF0EFF-5CA1-42A2-AB4A-6494F29283BB</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9569469c-1829-0410-ae98-e5621226c65f</key>
+		<string>https://svn.mlbam.com/source/repos/mm-native</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9569469c-1829-0410-ae98-e5621226c65f</key>
+		<string>mm-native/</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9569469c-1829-0410-ae98-e5621226c65f</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9569469c-1829-0410-ae98-e5621226c65f</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mm-native</string>
+		</dict>
+	</array>
+</dict>
+</plist>

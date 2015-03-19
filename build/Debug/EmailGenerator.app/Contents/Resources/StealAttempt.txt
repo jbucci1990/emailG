@@ -1,0 +1,1 @@
+We have a $CHALLENGETYPE in the $GAME: $INNING, $OUTSBEFORE out, $RUNNERSBEFORE. $OFFENSETEAM $OFFENSIVEPLAYER attempts to steal $PLAYLOCATION, runner called $CALLONFIELD on the $PLAYTYPE. $WHOCHALLENGED challenges the call on the field. After review, the Replay Official rules the runner is $CALLAFTER at $PLAYLOCATION. The call is $OUTCOME. $OUTSAFTER out, $RUNNERSAFTER.
